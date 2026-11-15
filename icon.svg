@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="Thinking effort slider">
+  <rect x="7" y="16.75" width="22" height="2.5" rx="1.25" fill="#A8B0BC"/>
+  <rect x="7" y="16.75" width="16" height="2.5" rx="1.25" fill="#2F6FED"/>
+  <circle cx="7" cy="18" r="1.5" fill="#A8B0BC"/>
+  <circle cx="29" cy="18" r="1.5" fill="#A8B0BC"/>
+  <circle cx="23" cy="18" r="4" fill="#2F6FED"/>
+</svg>

@@ -1,0 +1,5 @@
+# Mounts the effort slider into the profile layer stack. The browser half
+# ships through package.json `dsh.client` / exports["./client"].
+- insert:
+    - id: effort-slider
+      name: '@local/dsh-effort-slider'

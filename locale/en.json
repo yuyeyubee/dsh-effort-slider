@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Thinking effort slider",
+    "description": "Puts the current model's thinking level on a slider in the composer row, so one drag sets it without opening the model menu.",
+    "detail": "docs/DETAIL.md"
+  }
+}
